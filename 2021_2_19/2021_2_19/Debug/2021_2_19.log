@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/2/20 9:17:47。
+     1>项目“D:\大三寒假\vsproject\2021_2_19\2021_2_19\2021_2_19.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+     1>d:\大三寒假\vsproject\2021_2_19\2021_2_19\test.c(11): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+     1>d:\大三寒假\vsproject\2021_2_19\2021_2_19\test.c(13): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+     1>d:\大三寒假\vsproject\2021_2_19\2021_2_19\test.c(17): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+     1>d:\大三寒假\vsproject\2021_2_19\2021_2_19\test.c(19): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+         game.c
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\大三寒假\vsproject\2021_2_19\Debug\2021_2_19.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\大三寒假\vsproject\2021_2_19\Debug\2021_2_19.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\大三寒假\vsproject\2021_2_19\Debug\2021_2_19.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         2021_2_19.vcxproj -> D:\大三寒假\vsproject\2021_2_19\Debug\2021_2_19.exe
+     1>已完成生成项目“D:\大三寒假\vsproject\2021_2_19\2021_2_19\2021_2_19.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.39
